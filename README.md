@@ -22,5 +22,10 @@ leetcode problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/codegeek004/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/codegeek004/leetcode_problems/tree/master/0058-length-of-last-word) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/codegeek004/leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
