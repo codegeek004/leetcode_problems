@@ -34,6 +34,7 @@ leetcode problems
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/codegeek004/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/codegeek004/leetcode_problems/tree/master/0054-spiral-matrix) |
 ## Matrix
 |  |
@@ -47,4 +48,5 @@ leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codegeek004/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/codegeek004/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
