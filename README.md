@@ -7,6 +7,7 @@ leetcode problems
 | ------- |
 | [0007-reverse-integer](https://github.com/codegeek004/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codegeek004/leetcode_problems/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/codegeek004/leetcode_problems/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/codegeek004/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -46,6 +47,7 @@ leetcode problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/codegeek004/leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/codegeek004/leetcode_problems/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +58,8 @@ leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codegeek004/leetcode_problems/tree/master/0001-two-sum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/codegeek004/leetcode_problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
