@@ -40,6 +40,7 @@ leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codegeek004/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codegeek004/leetcode_problems/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/codegeek004/leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
@@ -62,6 +63,7 @@ leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codegeek004/leetcode_problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Number Theory
 |  |
@@ -74,9 +76,18 @@ leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String Matching
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/codegeek004/leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
