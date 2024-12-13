@@ -26,6 +26,7 @@ leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codegeek004/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/codegeek004/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/codegeek004/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/codegeek004/leetcode_problems/tree/master/0058-length-of-last-word) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/codegeek004/leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -93,4 +94,8 @@ leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/codegeek004/leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
