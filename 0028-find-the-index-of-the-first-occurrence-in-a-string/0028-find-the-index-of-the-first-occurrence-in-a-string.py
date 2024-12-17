@@ -6,8 +6,8 @@ class Solution(object):
         :rtype: int
         """
       
-        if len(haystack) < len(needle):
-            return -1
+        # if len(haystack) < len(needle):
+        #     return -1
 
         for i in range(len(haystack)):
             if haystack[i:i+len(needle)] == needle:
