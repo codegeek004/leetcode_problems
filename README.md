@@ -8,6 +8,7 @@ leetcode problems
 | [0007-reverse-integer](https://github.com/codegeek004/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codegeek004/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/codegeek004/leetcode_problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/codegeek004/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/codegeek004/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ leetcode problems
 | [0020-valid-parentheses](https://github.com/codegeek004/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codegeek004/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/codegeek004/leetcode_problems/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/codegeek004/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/codegeek004/leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Stack
 |  |
@@ -54,6 +56,7 @@ leetcode problems
 | ------- |
 | [0054-spiral-matrix](https://github.com/codegeek004/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/codegeek004/leetcode_problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/codegeek004/leetcode_problems/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
