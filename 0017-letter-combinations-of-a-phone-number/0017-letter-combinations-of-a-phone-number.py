@@ -17,7 +17,11 @@ class Solution:
             return []
         num = len(digits)
         for i in range(num):
+            print('key', digits[i])
+            print('value', map1[digits[i]])
             result = [x+y for x in result for y in map1[digits[i]]]
+            print('i', i)
+            print('result', result)
         return result
 
 
