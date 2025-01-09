@@ -45,6 +45,7 @@ leetcode problems
 | [0001-two-sum](https://github.com/codegeek004/leetcode_problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codegeek004/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codegeek004/leetcode_problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/codegeek004/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/codegeek004/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/codegeek004/leetcode_problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
@@ -86,6 +87,7 @@ leetcode problems
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/codegeek004/leetcode_problems/tree/master/0035-search-insert-position) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
