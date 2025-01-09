@@ -34,6 +34,7 @@ leetcode problems
 | [0058-length-of-last-word](https://github.com/codegeek004/leetcode_problems/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/codegeek004/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/codegeek004/leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/codegeek004/leetcode_problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ leetcode problems
 | [0217-contains-duplicate](https://github.com/codegeek004/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [1137-height-checker](https://github.com/codegeek004/leetcode_problems/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/codegeek004/leetcode_problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Matrix
 |  |
 | ------- |
@@ -97,6 +99,7 @@ leetcode problems
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codegeek004/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/codegeek004/leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/codegeek004/leetcode_problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Divide and Conquer
 |  |
 | ------- |
