@@ -7,6 +7,7 @@ leetcode problems
 | ------- |
 | [0007-reverse-integer](https://github.com/codegeek004/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codegeek004/leetcode_problems/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/codegeek004/leetcode_problems/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/codegeek004/leetcode_problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/codegeek004/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/codegeek004/leetcode_problems/tree/master/1013-fibonacci-number) |
@@ -47,6 +48,7 @@ leetcode problems
 | [0027-remove-element](https://github.com/codegeek004/leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/codegeek004/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/codegeek004/leetcode_problems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/codegeek004/leetcode_problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/codegeek004/leetcode_problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codegeek004/leetcode_problems/tree/master/0217-contains-duplicate) |
