@@ -9,6 +9,7 @@ leetcode problems
 | [0009-palindrome-number](https://github.com/codegeek004/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/codegeek004/leetcode_problems/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/codegeek004/leetcode_problems/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/codegeek004/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/codegeek004/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -52,6 +53,7 @@ leetcode problems
 | [0136-single-number](https://github.com/codegeek004/leetcode_problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codegeek004/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/codegeek004/leetcode_problems/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/codegeek004/leetcode_problems/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -81,6 +83,7 @@ leetcode problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codegeek004/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codegeek004/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Number Theory
 |  |
@@ -90,12 +93,14 @@ leetcode problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/codegeek004/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/codegeek004/leetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/codegeek004/leetcode_problems/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String Matching
@@ -120,6 +125,7 @@ leetcode problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/codegeek004/leetcode_problems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 ## Counting Sort
 |  |
 | ------- |
