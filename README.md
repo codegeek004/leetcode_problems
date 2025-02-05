@@ -58,6 +58,7 @@ leetcode problems
 | [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/codegeek004/leetcode_problems/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/codegeek004/leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/codegeek004/leetcode_problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Matrix
 |  |
