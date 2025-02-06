@@ -9,6 +9,7 @@ leetcode problems
 | [0009-palindrome-number](https://github.com/codegeek004/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/codegeek004/leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/codegeek004/leetcode_problems/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/codegeek004/leetcode_problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/codegeek004/leetcode_problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/codegeek004/leetcode_problems/tree/master/0412-fizz-buzz) |
@@ -54,6 +55,7 @@ leetcode problems
 | [0066-plus-one](https://github.com/codegeek004/leetcode_problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/codegeek004/leetcode_problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/codegeek004/leetcode_problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codegeek004/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/codegeek004/leetcode_problems/tree/master/1137-height-checker) |
@@ -77,6 +79,7 @@ leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codegeek004/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codegeek004/leetcode_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codegeek004/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/codegeek004/leetcode_problems/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/codegeek004/leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Table
