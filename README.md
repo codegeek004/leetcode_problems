@@ -58,6 +58,7 @@ leetcode problems
 | [0189-rotate-array](https://github.com/codegeek004/leetcode_problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/codegeek004/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/codegeek004/leetcode_problems/tree/master/0283-move-zeroes) |
 | [1137-height-checker](https://github.com/codegeek004/leetcode_problems/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/codegeek004/leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -80,6 +81,7 @@ leetcode problems
 | [0027-remove-element](https://github.com/codegeek004/leetcode_problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/codegeek004/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/codegeek004/leetcode_problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/codegeek004/leetcode_problems/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/codegeek004/leetcode_problems/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Table
