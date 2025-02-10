@@ -59,6 +59,7 @@ leetcode problems
 | [0217-contains-duplicate](https://github.com/codegeek004/leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codegeek004/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/codegeek004/leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [1137-height-checker](https://github.com/codegeek004/leetcode_problems/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/codegeek004/leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
