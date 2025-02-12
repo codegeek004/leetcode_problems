@@ -4,8 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        temp = 0
         count = 0
+        temp = 0
         for i in nums:
             if count == 0:
                 temp = i
@@ -14,4 +14,10 @@ class Solution(object):
             else:
                 count-=1
         return temp
-               
+
+
+
+
+
+
+        
