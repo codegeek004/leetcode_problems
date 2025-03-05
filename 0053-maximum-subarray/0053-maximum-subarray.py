@@ -5,6 +5,7 @@ class Solution(object):
         :rtype: int
         """
         cursum = 0
+        #float('-inf') sets the value to the smallest number. If we initialize it with zero then it will give output as 0 even if the output should be negative in case of negative valued arrays
         maxsum = float('-inf')
         for i in range(len(nums)):
             cursum += nums[i]
