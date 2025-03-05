@@ -18,6 +18,7 @@ leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/codegeek004/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/codegeek004/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/codegeek004/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@ leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/codegeek004/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/codegeek004/leetcode_problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/codegeek004/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/codegeek004/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/codegeek004/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/codegeek004/leetcode_problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/codegeek004/leetcode_problems/tree/master/0136-single-number) |
@@ -124,6 +126,7 @@ leetcode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/codegeek004/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
