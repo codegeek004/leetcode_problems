@@ -8,6 +8,7 @@ leetcode problems
 | [0007-reverse-integer](https://github.com/codegeek004/leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/codegeek004/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/codegeek004/leetcode_problems/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/codegeek004/leetcode_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/codegeek004/leetcode_problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/codegeek004/leetcode_problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/codegeek004/leetcode_problems/tree/master/0258-add-digits) |
@@ -54,6 +55,7 @@ leetcode problems
 | [0027-remove-element](https://github.com/codegeek004/leetcode_problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/codegeek004/leetcode_problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/codegeek004/leetcode_problems/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/codegeek004/leetcode_problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/codegeek004/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/codegeek004/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/codegeek004/leetcode_problems/tree/master/0066-plus-one) |
@@ -75,6 +77,7 @@ leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/codegeek004/leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/codegeek004/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/codegeek004/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
