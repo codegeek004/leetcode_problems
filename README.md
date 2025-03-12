@@ -76,6 +76,7 @@ leetcode problems
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/codegeek004/leetcode_problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/codegeek004/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/codegeek004/leetcode_problems/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codegeek004/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +127,7 @@ leetcode problems
 | [0035-search-insert-position](https://github.com/codegeek004/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codegeek004/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/codegeek004/leetcode_problems/tree/master/0169-majority-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codegeek004/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Trie
 |  |
 | ------- |
