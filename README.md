@@ -15,6 +15,7 @@ leetcode problems
 | [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/codegeek004/leetcode_problems/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/codegeek004/leetcode_problems/tree/master/1013-fibonacci-number) |
+| [3321-type-of-triangle](https://github.com/codegeek004/leetcode_problems/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ leetcode problems
 | [2271-rearrange-array-elements-by-sign](https://github.com/codegeek004/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/codegeek004/leetcode_problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/codegeek004/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3321-type-of-triangle](https://github.com/codegeek004/leetcode_problems/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@ leetcode problems
 | [0268-missing-number](https://github.com/codegeek004/leetcode_problems/tree/master/0268-missing-number) |
 | [1137-height-checker](https://github.com/codegeek004/leetcode_problems/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/codegeek004/leetcode_problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3321-type-of-triangle](https://github.com/codegeek004/leetcode_problems/tree/master/3321-type-of-triangle) |
 ## String Matching
 |  |
 | ------- |
