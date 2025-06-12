@@ -26,6 +26,7 @@ leetcode problems
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/codegeek004/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/codegeek004/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -185,4 +186,8 @@ leetcode problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/codegeek004/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/codegeek004/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
