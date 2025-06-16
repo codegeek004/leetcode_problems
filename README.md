@@ -27,6 +27,7 @@ leetcode problems
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/codegeek004/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/codegeek004/leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/codegeek004/leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -190,4 +191,5 @@ leetcode problems
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/codegeek004/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/codegeek004/leetcode_problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
